@@ -13,3 +13,5 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Used starter template from https://github.com/ivanms1/nextjs-apollo-ssr
+
+Backend repo: https://github.com/stewest/drupal-game-back
