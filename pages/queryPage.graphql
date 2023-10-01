@@ -1,0 +1,21 @@
+fragment FragmentNodePage on NodePage {
+  id
+  uuid
+  body {
+    ...FragmentTextSummary
+  }
+  changed {
+    ...FragmentDateTime
+  }
+  created {
+    ...FragmentDateTime
+  }
+  langcode {
+    ...FragmentLanguage
+  }
+  path
+  promote
+  status
+  sticky
+  title
+}

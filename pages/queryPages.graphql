@@ -1,0 +1,9 @@
+query Pages {
+  nodePages(first: 100) {
+    nodes {
+      id
+      title
+      path
+    }
+  }
+}
