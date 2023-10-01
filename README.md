@@ -12,4 +12,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Learn to create this template [here](https://dev.to/ivanms1/take-your-next-js-graphql-typescript-setup-to-the-next-level-5b0i)
+Used starter template from https://github.com/ivanms1/nextjs-apollo-ssr
